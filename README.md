@@ -99,3 +99,11 @@ BiliMind-MCP/
 ├── requirements.txt # 项目依赖
 └── README.md # 项目文档
 ```
+
+## 致谢
+本项目受到 [BiliNote](https://github.com/JefferyHcool/BiliNote) 项目的启发。BiliNote 是一个优秀的开源 AI 视频笔记助手，支持多平台视频内容的自动笔记生成。
+
+
+## License
+
+MIT License
